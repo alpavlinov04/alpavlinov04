@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @alpavlinov04
-- 👀 I’m interested in  C#, C++ and HTML
-- 🌱 I’m currently learning C#
-- 📫 How to reach me: e-mail- alekspav2004@abv.bg and instagram- al.pavlinov
+
